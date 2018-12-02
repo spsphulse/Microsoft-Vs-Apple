@@ -14,3 +14,9 @@ Historical number of outstanding shares - Got this from https://sharesoutstandin
 
 Market Cap = Number of Outstanding Shares * Closing price
 
+
+# Tools used
+Python 3.6
+Matplotlib
+Pandas
+AlphaVantage API
